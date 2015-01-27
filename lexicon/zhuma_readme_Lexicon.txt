@@ -121,13 +121,5 @@ q
 *program quit*
 
 
-Unimplemented Bonus
-I have not implemented matchRegex() method
-
-
-Help
-I went to the TA hours and received help with coming up with  the pseudocode on next() method from Mina, and suggestCorrections() method from Anne. Also I based my LexiconIterator class on the provided code from “In-order iterator for binary trees. (c) 1998, 2001 duane a. bailey ”, which I specified in the comments to the class. 
-
-
  			
 
